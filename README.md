@@ -9,3 +9,5 @@ git init
 git remote add origin git@github.com:AlaEddineOUALI/tutorials.git
 
 git commit -m "git commit exemple"
+## create branch 
+git checkout -b BRANCH_NAME
