@@ -7,3 +7,5 @@ git config --global user.name "Ala Eddine OUALI"
 git init
 #git remote add origin URL_SSH_REPO
 git remote add origin git@github.com:AlaEddineOUALI/tutorials.git
+
+git commit -m "git commit exemple"
